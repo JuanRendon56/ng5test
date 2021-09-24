@@ -6,9 +6,9 @@
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
-    "lint": "ng lint",
+    "lint": "ng lin",
     "e2e": "ng e2e",
-    "test-headless": "ng test --watch=false -- browsers=ChromeHeadless"
+    "test-headless": "ng test --watch=false --browsers=ChromeHeadless"
   },
   "private": true,
   "dependencies": {
